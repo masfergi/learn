@@ -1,0 +1,8 @@
+print("Hello World!")
+print("Hello Again")
+print("I like typing this")
+print("This is fun")
+print('Yay!')
+print("Jum'at.")
+print('pokoe "WIS JELAS" pokoe')
+print("Sip" * 6)
